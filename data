@@ -1,4 +1,7 @@
 [
-{"item": "Dress", "price":"1200"},
-{"item": "Top", "price":"800"}
+{
+  "Women":{"item": "Dress", "price":"1200"},{"item": "Top", "price":"800"}'
+  "Men":{"item": "Shirt", "price":"1200"},{"item": "T-Shirt", "price":"800"}',
+  "Children":{"item": "frock", "price":"1200"},{"item": "shirt", "price":"800"}'
+  }
 ]
