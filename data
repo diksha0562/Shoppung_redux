@@ -1,7 +1,7 @@
 [
 {
-  "Women":{"item": "Dress", "price":"1200"},{"item": "Top", "price":"800"}'
-  "Men":{"item": "Shirt", "price":"1200"},{"item": "T-Shirt", "price":"800"}',
-  "Children":{"item": "frock", "price":"1200"},{"item": "shirt", "price":"800"}'
+  "women":{"item": "Dress", "price":"1200"},{"item": "Top", "price":"800"}'
+  "men":{"item": "Shirt", "price":"1200"},{"item": "T-Shirt", "price":"800"}',
+  "children":{"item": "frock", "price":"1200"},{"item": "shirt", "price":"800"}'
   }
 ]
